@@ -1,2 +1,2 @@
 # About
-html for taylorkvist.com hosted on AWS.
+html and images for taylorkvist.com hosted on AWS.
